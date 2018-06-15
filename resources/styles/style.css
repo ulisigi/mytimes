@@ -41,3 +41,24 @@ nav span {
 a {
   color: black;
 }
+
+main {
+  display: flex;
+  border: 1px solid black;
+}
+
+.column {
+  display: flex;
+}
+
+.column.large {
+  width: 630px;
+}
+
+.column.medium {
+  width: 300px;
+}
+
+.column.small {
+  width: 240px;
+}
