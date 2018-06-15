@@ -53,12 +53,15 @@ main {
 
 .column.large {
   width: 630px;
+  flex-direction: column;
 }
 
 .column.medium {
   width: 300px;
+  flex-direction: column;
 }
 
 .column.small {
   width: 240px;
+  flex-direction: column;
 }
